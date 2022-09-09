@@ -1,3 +1,13 @@
 HTML: Hypertext Markup Language
-<titile><titile/>    use to upper tage
+<titile></titile>    use to upper tage
 <link rel="stylesheet"href="">   used to other stylesheet to link
+<h1></h1>to <h6></h6> use to heading tage
+<p></p>use to peragrap
+<storang></storang>use to bold word
+<br></br>to breack the line
+<em></em> to diffrent anather word
+<hr> to x axis line 
+<a href="" target="blank" ></a> use to link in the page target blank use to open link in new tab
+<ul> <li></li> </ul> use to order list is me list bane ga or dot age aye ga
+<ol> <li></li></ol> is me bhi order list bane ga or 1 2 3 kr k ho ga
+<ol type=""></ol> html khud opicion de ga ke kis m dena h alpha m roman ya kise or m 
